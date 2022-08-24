@@ -118,7 +118,10 @@ Additional tools (not required for the course, but perhaps interesting):
       * [rpart](https://cran.r-project.org/web/packages/rpart/index.html): decision trees
       * [stats](https://stat.ethz.ch/R-manual/R-patched/library/stats/html/00Index.html) (installed by default): hierarchical clustering, kmeans
       * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html): lasso, elastic net
-      * See [CRAN Task View: Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html) and [CRAN Task View: Cluster Analysis & Finite Mixture Models](https://cran.r-project.org/web/views/Cluster.html) for pointers to other packages
+      * See [CRAN Task View: Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html) and [CRAN Task View: Cluster Analysis & Finite Mixture Models](https://cran.r-project.org/web/views/Cluster.html) f
+      
+      
+      or pointers to other packages
    * [WEKA](https://www.cs.waikato.ac.nz/ml/weka/), a Java-based collection of machine learning algorithms for data mining
    * [Shogun](https://www.shogun-toolbox.org/), a machine learning library particularly suitable for large scale kernel methods
 
@@ -131,4 +134,4 @@ Some good material for further reading:
    * A. Webb, [Statistical pattern recognition](https://www.amazon.com/Statistical-Pattern-Recognition-Andrew-Webb/dp/0470845147/ref=sr_1_1?ie=UTF8&s=books&qid=1232058254&sr=1-1), 2nd ed., 2002. ISBN: 0470845147.
    * F. van der Heijden, R.P.W. Duin, D. de Ridder and D.M.J. Tax, [Classification, parameter estimation and state estimation: an engineering approach using MATLAB](https://www.amazon.com/Classification-Parameter-Estimation-State-Engineering/dp/0470090138/ref=sr_1_1?ie=UTF8&s=books&qid=1232058361&sr=1-1), 2004. ISBN: 0470090138.
    * A.K. Jain, R.P.W. Duin and J. Mao, [Statistical pattern recognition: a review](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.123.8151), IEEE Tr. on Pattern Analysis and Machine Intelligence 22(1):4-37, 2000. 
-   * M. Fernández-Delgado, E. Cernadas, S. Barro, Dinani Amorim, [Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?](https://jmlr.org/papers/v15/delgado14a.html), JMLR, 15(Oct):3133-3181, 2014
+   * M. Fernández-Delgado, E. Cernadas, S. Barro, Dinani Amorim, [Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?](https://jmlr.org/papers/v15/delgado14a.html), JMLR, 15(Oct):3133-3181, 2014.
