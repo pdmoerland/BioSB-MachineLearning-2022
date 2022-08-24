@@ -8,6 +8,7 @@
   * [Registration](#registration)
   * [Course material](#course-material)
   * [Assignment](#assignment)
+  * [Location and travel information](#location-and-travel-information)
   * [Schedule](#schedule)
   * [Pointers](#pointers)
   
@@ -73,6 +74,12 @@ To use the code and data, download the ZIP file, unpack everything in the same d
 
 Participants requiring a certificate of successful completion (3 ECTS) should make a final assignment. The student will analyse a biological dataset (preferably one from his/her own practice) using some of methods taught in the course, and write a small report (5-10 pages) on the results. If the student has no dataset available, one will be provided. The report will have to be mailed to [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl) no later than three weeks after the course has finished (October 21, 2022). We will strictly adhere to this deadline; if you require extension, you should contact us well in advance. The proposal will be graded "fail" or "pass", with one possible resubmission. Those who choose not to make the final assignment will receive a certificate of participation (1.5 ECTS). 
 
+## Location and travel information
+
+Course class rooms are located in and around the Amsterdam UMC, location [Academic Medical Center](https://www.google.nl/maps/@52.294629,4.9557843,1121m/data=!3m1!1e3) (AMC; in Dutch: Academisch Medisch Centrum), Meibergdreef 9, Amsterdam.
+ 
+Detailed travel information to the AMC can be found at https://www.amc.nl/web/over-de-locatie-amc/organisatie/address.htm. The metro/train station is at about 10 minutes walking distance from the class rooms and can be reached in less than 30 minutes from Amsterdam Central Station and Schiphol Airport.
+ 
 ## Schedule
 
 The course will run in the week of *September 26-30 2022*. 
