@@ -7,7 +7,7 @@
   * [Description](#description)
   * [Registration](#registration)
   * [Course material](#course-material)
-  * [Examination](#examination)
+  * [Assignment](#assignment)
   * [Schedule](#schedule)
   * [Pointers](#pointers)
   
@@ -37,7 +37,7 @@ The course is aimed at PhD students with a background in bioinformatics, systems
 
 Modern biology is a data-rich science, driven by our ability to measure the detailed molecular characteristics of cells, organs, and individuals at many different levels. Interpretation of these large-scale biological data requires the detection of statistical dependencies and patterns in order to establish useful models of complex biological systems. Techniques from machine learning are key in this endeavour. Typical examples are the visualization of single-cell RNA-seq data using dimensionality reduction methods, base calling for nanopore sequencing data using hidden Markov models and (recurrent) neural networks, and classification of high-throughput microscopy image data using convolutional neural networks. 
 
-In this one-week course, the foundations of machine learning will be laid out and commonly used methods for unsupervised (clustering, dimensionality reduction, visualization) and supervised (mainly classification) learning will be explained in detail. Methods will be illustrated using recent examples from the fields of systems biology and bioinformatics. Methods discussed in the morning lectures will be put into practice during the afternoon computer lab sessions. The course can optionally be extended with a 5-10 page report describing the analysis of a biological dataset using some of the methods taught in the course.
+In this one-week course, the foundations of machine learning will be laid out and commonly used methods for unsupervised (clustering, dimensionality reduction, visualization) and supervised (mainly classification) learning will be explained in detail. Methods will be illustrated using recent examples from the fields of systems biology and bioinformatics. Methods discussed in the morning lectures will be put into practice during the afternoon computer lab sessions. The course can optionally be extended with an assignment in which you write a 5-10 page report describing the analysis of a biological dataset using some of the methods taught in the course.
 
 ## Registration
 
@@ -57,7 +57,7 @@ Have a look at the following documents before the start of the course:
    * A [self-evaluation test](background/Self-evaluation.pdf) on the prerequisite prior knowledge (probability theory and linear algebra). If you have a lot of trouble answering some of these exercises, consult the text books mentioned in the PDF, or a few [primers](background/Primers.zip) on these topics.
    * The computer labs make extensive use of Matlab. You do not need to be a fluent programmer, but if you have never worked with Matlab before it may help to have a look at the Appendices of the computer lab [manual](manual/Manual.pdf). An extensive Matlab [primer](background/Matlab.pdf) is also available. 
 
-<!---During the course Matlab and all software/data are available on the PCs in the lab, so there is no need to bring your laptop.--->
+<!---During the course Matlab and all other software/data have to be installed on your laptop.--->
 
    * Material used during the lectures:
       * [Handouts](website/Handouts.zip) (ZIP/PDF) of the slides used during the course;
@@ -71,7 +71,7 @@ To use the code and data, download the ZIP file, unpack everything in the same d
     
 ## Assignment
 
-Participants requiring a certificate of successful completion (3 ECTS) should make a final assignment. The student will analyse a biological dataset (preferably one from his/her own practice) using the tools provided in the course, and write a small report (5-10 pages) on the results. If the student has no dataset available, one will be provided. The report will have to be mailed to [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl) no later than three weeks after the course has finished (October 21, 2022). We will strictly adhere to this deadline; if you require extension, you should contact us well in advance. The proposal will be graded "fail" or "pass", with one possible resubmission. Those who choose not to make the final assignment will receive a certificate of participation (1.5 ECTS). 
+Participants requiring a certificate of successful completion (3 ECTS) should make a final assignment. The student will analyse a biological dataset (preferably one from his/her own practice) using some of methods taught in the course, and write a small report (5-10 pages) on the results. If the student has no dataset available, one will be provided. The report will have to be mailed to [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl) no later than three weeks after the course has finished (October 21, 2022). We will strictly adhere to this deadline; if you require extension, you should contact us well in advance. The proposal will be graded "fail" or "pass", with one possible resubmission. Those who choose not to make the final assignment will receive a certificate of participation (1.5 ECTS). 
 
 ## Schedule
 
@@ -132,9 +132,3 @@ Some good material for further reading:
    * F. van der Heijden, R.P.W. Duin, D. de Ridder and D.M.J. Tax, [Classification, parameter estimation and state estimation: an engineering approach using MATLAB](https://www.amazon.com/Classification-Parameter-Estimation-State-Engineering/dp/0470090138/ref=sr_1_1?ie=UTF8&s=books&qid=1232058361&sr=1-1), 2004. ISBN: 0470090138.
    * A.K. Jain, R.P.W. Duin and J. Mao, [Statistical pattern recognition: a review](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.123.8151), IEEE Tr. on Pattern Analysis and Machine Intelligence 22(1):4-37, 2000. 
    * M. Fernández-Delgado, E. Cernadas, S. Barro, Dinani Amorim, [Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?](https://jmlr.org/papers/v15/delgado14a.html), JMLR, 15(Oct):3133-3181, 2014
-
-
-
-
-
-
