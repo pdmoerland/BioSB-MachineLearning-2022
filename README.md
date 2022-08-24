@@ -11,7 +11,7 @@
   * [Schedule](#schedule)
   * [Pointers](#pointers)
   
-A yearly course, part of the [BioSB](https://www.biosb.nl) Research School
+A yearly course, part of the [BioSB](https://www.dtls.nl/biosb/) Research School
 	
 *Lecturers*
    * dr. ir. Perry Moerland (Amsterdam UMC, location: Academic Medical Center)   
@@ -23,7 +23,7 @@ A yearly course, part of the [BioSB](https://www.biosb.nl) Research School
    * e-mail: p.d.moerland@amsterdamumc.nl
    * telephone: +31 20 5666945
 
-For more information about the course programme, please contact [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl); for more information about registration or logistics, please contact [Femke Francissen](mailto:femke.francissen@biosb.nl).
+For more information about the course programme, please contact [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl); for more information about registration or logistics, please contact [Mascha Jansen](mailto:mascha.jansen@dtls.nl).
 
 ## Learning objectives
 
@@ -37,17 +37,17 @@ The course is aimed at PhD students with a background in bioinformatics, systems
 
 Modern biology is a data-rich science, driven by our ability to measure the detailed molecular characteristics of cells, organs, and individuals at many different levels. Interpretation of these large-scale biological data requires the detection of statistical dependencies and patterns in order to establish useful models of complex biological systems. Techniques from machine learning are key in this endeavour. Typical examples are the visualization of single-cell RNA-seq data using dimensionality reduction methods, base calling for nanopore sequencing data using hidden Markov models and (recurrent) neural networks, and classification of high-throughput microscopy image data using convolutional neural networks. 
 
-In this one-week course, the foundations of machine learning will be laid out and commonly used methods for unsupervised (clustering, dimensionality reduction, visualization) and supervised (mainly classification) learning will be explained in detail. Methods will be illustrated using recent examples from the fields of systems biology and bioinformatics. Methods discussed in the morning lectures will be put into practice during the afternoon computer lab sessions. The course has to be completed afterwards with a 5-10 page report describing the analysis of a biological dataset using some of the methods taught in the course.
+In this one-week course, the foundations of machine learning will be laid out and commonly used methods for unsupervised (clustering, dimensionality reduction, visualization) and supervised (mainly classification) learning will be explained in detail. Methods will be illustrated using recent examples from the fields of systems biology and bioinformatics. Methods discussed in the morning lectures will be put into practice during the afternoon computer lab sessions. The course can optionally be extended with a 5-10 page report describing the analysis of a biological dataset using some of the methods taught in the course.
 
 ## Registration
 
-You can register for this course by filling out the BioSB [enrolment form](https://www.biosb.nl/machine-learning-for-bioinformatics-and-systems-biology-2021/). The maximum number of participants is 25, so register soon to be sure of a course seat! *Update: we reached the maximum number of participants for the 2021 edition. Registration is closed.* If you would like to be put on the reserve list, please send an email to [Femke Francissen](mailto:femke.francissen@biosb.nl). If you are interested in the 2022 edition of the course please fill out the [pre-registration form](https://www.biosb.nl/education/enrollment/pre-registration-courses/).
+You can register for this course by filling out the BioSB [registration form](https://www.dtls.nl/courses/machine-learning-2022/). The maximum number of participants is 25, so register soon to be sure of a course seat! *Update: we reached the maximum number of participants for the 2022 edition. Registration is closed.* If you would like to be put on the waiting list, please use the registration form. If you are interested in the 2023 edition of the course please fill out the [pre-registration form](https://www.dtls.nl/biosb/pre-registration-courses/).
 
 The course fee includes all course material. Lecture slides, a computer lab manual and software required for the computer labs (MATLAB toolboxes) will be made available online.
 
    * Catering: Coffee, tea, soft drinks and lunch will be provided.
 
- <!--- Information about hostel accommodation in Amsterdam can be found [[https://www.vu.nl/en/programmes/links/hotels.aspx][here]]. Accommodation is not included in the course fee.--->
+ <!--- Information about hostel accommodation in Amsterdam can be found [[https://vu.nl/en/education/more-about/summer-school-accommodation][here]] (Additional nights). Accommodation is not included in the course fee.--->
 
 ## Course material
 
@@ -67,17 +67,17 @@ Have a look at the following documents before the start of the course:
       * Computer lab [manual](manual/Manual.pdf) (PDF);
       * [Matlab toolboxes and datasets](website/Data_and_code.zip) (ZIP) used, among which PRTools is the most important toolbox.
 
-To use the code and data, download the ZIP file, unpack everything in the same directory and run _prstartup_ from the Matlab command prompt. If you do not have access to a Matlab campus license, install the 30-day free [trial](https://nl.mathworks.com/campaigns/products/trials.html). When indicating toolboxes to install, you should at least select the _Deep Learning_ toolbox and the _Statistics and Machine Learning_ toolbox.
+To use the code and data, download the ZIP file, unpack everything in the same directory and run _prstartup_ from the Matlab command prompt. If you do not have access to a Matlab campus license, install the 30-day free [trial](https://nl.mathworks.com/campaigns/products/trials.html). When indicating toolboxes to install, you should at least select the _Deep Learning_, _Opimization_ and _Statistics and Machine Learning_ toolboxes.
     
-## Examination
+## Assignment
 
-Participants requiring a certificate of successful completion (3 ECTS) should make a final assignment. The student will analyse a biological dataset (preferably one from his/her own practice) using the tools provided in the course, and write a small report (5-10 pages) on the results. If the student has no dataset available, one will be provided. The report will have to be mailed to [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl) no later than three weeks after the course has finished (November 5, 2021). We will strictly adhere to this deadline; if you require extension, you should contact us well in advance. The proposal will be graded "fail" or "pass", with one possible resubmission. Those who choose not to make the final assignment will receive a certificate of participation (1.5 ECTS). 
+Participants requiring a certificate of successful completion (3 ECTS) should make a final assignment. The student will analyse a biological dataset (preferably one from his/her own practice) using the tools provided in the course, and write a small report (5-10 pages) on the results. If the student has no dataset available, one will be provided. The report will have to be mailed to [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl) no later than three weeks after the course has finished (October 21, 2022). We will strictly adhere to this deadline; if you require extension, you should contact us well in advance. The proposal will be graded "fail" or "pass", with one possible resubmission. Those who choose not to make the final assignment will receive a certificate of participation (1.5 ECTS). 
 
 ## Schedule
 
-The course will run in the week of *October 11-15 2021*. 
+The course will run in the week of *September 26-30 2022*. 
 
-<!---Preparation material on statistics and linear algebra will be distributed before the course, to be studied by students missing the required background. After the course, 2-3 days will have to be spent on the report to be handed in.--->
+<!---Preparation material on statistics and linear algebra will be distributed before the course, to be studied by students missing the required background. After the course, 2-3 days will have to be spent on the report to be handed in by those wanting to do the final assignment.--->
 Each course day will have the following schedule:
 
    * 9.00 - 12.00: 	Lecture
@@ -86,23 +86,23 @@ Each course day will have the following schedule:
 
 *Note that the course material is still going to change before and during ;-) the course week.*
 
-*Monday* (October 11) -	[Introduction](Day1/Day1.pdf)  
+*Monday* (September 26) -	[Introduction](Day1/Day1.pdf)  
 *Lecturer* 	Marcel Reinders  
 *Subjects* 	Introduction to machine learning: measurements, features, classification. Supervised vs. unsupervised learning, relation to regression. Bayesian framework: risk, cost; evaluation: ROCs, cross-validation. Density estimation: histograms, nearest neighbour, Parzen, Gaussian Bayesian classification.  
 
-*Tuesday* (October 12) - *[Classifiers](Day2/Day2.pdf)*   
+*Tuesday* (September 27) - *[Classifiers](Day2/Day2.pdf)*   
 *Lecturer* 	Perry Moerland  
 *Subjects* 	Parametric classifiers: (D)LDA, (D)QDA. Nonparametric classifiers: k-NN, Parzen. Discriminant analysis: LDA, logistic regression. Decision trees and random forests.  
 
-*Wednesday* (October 13) - *[Feature selection and extraction](Day3/Day3.pdf)*  
+*Wednesday* (September 28) - *[Feature selection and extraction](Day3/Day3.pdf)*  
 *Lecturer* 	Lodewyk Wessels  
 *Subjects* 	Feature selection: criteria, search algorithms (forward, backward, branch & bound). Sparse classifiers: Ridge, LASSO. Feature extraction: PCA, Fisher. Embeddings: MDS.  
 
-*Thursday* (October 14) - *[Clustering and HMMs](Day4/Day4.pdf)*  
+*Thursday* (September 29) - *[Clustering and HMMs](Day4/Day4.pdf)*  
 *Lecturer* 	Perry Moerland  
 *Subjects* 	Hierarchical clustering. Agglomerative clustering. Model-based clustering: mixtures-of-Gaussians, Expectation-Maximization. Hidden Markov models.  
 
-*Friday*  (October 15) - *[Selected advanced topics](Day5/Day5.pdf)*  
+*Friday*  (September 30) - *[Selected advanced topics](Day5/Day5.pdf)*  
 *Lecturer* 	Marcel Reinders  
 *Subjects* 	Artificial neural networks. Support vector machines. Classifier ensembles. Complexity and regularisation. Deep learning.  
 
