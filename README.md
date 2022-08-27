@@ -78,7 +78,7 @@ Participants requiring a certificate of successful completion (3 ECTS) should ma
 
 Course class rooms are located in and around the Amsterdam UMC, location [Academic Medical Center](https://www.google.nl/maps/@52.294629,4.9557843,1121m/data=!3m1!1e3) (AMC; in Dutch: Academisch Medisch Centrum), Meibergdreef 9, Amsterdam.
  
-Detailed travel information to the AMC can be found at https://www.amc.nl/web/over-de-locatie-amc/organisatie/address.htm. The metro/train station is at about 10 minutes walking distance from the class rooms and can be reached in less than 30 minutes from Amsterdam Central Station and Schiphol Airport.
+Detailed travel information to the AMC can be found at https://www.amsterdamumc.nl/en/location-amc/address.htm. The metro/train station is at about 10 minutes walking distance from the class rooms and can be reached in less than 30 minutes from Amsterdam Central Station and Schiphol Airport.
  
 ## Schedule
 
@@ -125,10 +125,7 @@ Additional tools (not required for the course, but perhaps interesting):
       * [rpart](https://cran.r-project.org/web/packages/rpart/index.html): decision trees
       * [stats](https://stat.ethz.ch/R-manual/R-patched/library/stats/html/00Index.html) (installed by default): hierarchical clustering, kmeans
       * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html): lasso, elastic net
-      * See [CRAN Task View: Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html) and [CRAN Task View: Cluster Analysis & Finite Mixture Models](https://cran.r-project.org/web/views/Cluster.html) f
-      
-      
-      or pointers to other packages
+      * See [CRAN Task View: Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html) and [CRAN Task View: Cluster Analysis & Finite Mixture Models](https://cran.r-project.org/web/views/Cluster.html) for pointers to other packages
    * [WEKA](https://www.cs.waikato.ac.nz/ml/weka/), a Java-based collection of machine learning algorithms for data mining
    * [Shogun](https://www.shogun-toolbox.org/), a machine learning library particularly suitable for large scale kernel methods
 
