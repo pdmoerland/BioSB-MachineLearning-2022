@@ -78,7 +78,7 @@ Participants requiring a certificate of successful completion (3 ECTS) should ma
 
 Course class rooms are located in and around the Amsterdam UMC, location [Academic Medical Center](https://www.google.nl/maps/@52.294629,4.9557843,1121m/data=!3m1!1e3) (AMC; in Dutch: Academisch Medisch Centrum), Meibergdreef 9, Amsterdam.
  
-Detailed travel information to the AMC can be found at https://www.amc.nl/web/over-de-locatie-amc/organisatie/address.htm. The metro/train station is at about 10 minutes walking distance from the class rooms and can be reached in less than 30 minutes from Amsterdam Central Station and Schiphol Airport.
+Detailed travel information to the AMC can be found at https://www.amsterdamumc.nl/en/location-amc/address.htm. The metro/train station is at about 10 minutes walking distance from the class rooms and can be reached in less than 30 minutes from Amsterdam Central Station and Schiphol Airport.
  
 ## Schedule
 
@@ -118,17 +118,14 @@ Additional tools (not required for the course, but perhaps interesting):
    * [scikit-learn](https://scikit-learn.org/stable/) is a free software machine learning library for the Python programming language
    * R is very popular for solving data analysis problems. [Here](https://cran.r-project.org/doc/contrib/Hiebeler-matlabR.pdf) is a short reference that provides a mapping between Matlab and R commands.
    * R packages relevant for some of the topics treated in the course are (spread out over a whole range of packages, list is far from complete):
-      * First have a look at [mlr](https://mlr3.mlr-org.com/) which is _the_ machine learning package in R.
+      * First have a look at [mlr3](https://mlr3.mlr-org.com/) which is _the_ machine learning package in R.
       * Then have a look at [caret](https://topepo.github.io/caret/index.html)  which also provides a nice set of functions that attempt to streamline the process for creating predictive models. 
       * [e0171](https://cran.r-project.org/web/packages/e1071/index.html): support vector machines and a flexible framework for cross-validation/bootstrapping using the _tune_ function
       * [MASS](https://cran.r-project.org/web/packages/MASS/index.html): dla, qda
       * [rpart](https://cran.r-project.org/web/packages/rpart/index.html): decision trees
       * [stats](https://stat.ethz.ch/R-manual/R-patched/library/stats/html/00Index.html) (installed by default): hierarchical clustering, kmeans
       * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html): lasso, elastic net
-      * See [CRAN Task View: Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html) and [CRAN Task View: Cluster Analysis & Finite Mixture Models](https://cran.r-project.org/web/views/Cluster.html) f
-      
-      
-      or pointers to other packages
+      * See [CRAN Task View: Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html) and [CRAN Task View: Cluster Analysis & Finite Mixture Models](https://cran.r-project.org/web/views/Cluster.html) for pointers to other packages
    * [WEKA](https://www.cs.waikato.ac.nz/ml/weka/), a Java-based collection of machine learning algorithms for data mining
    * [Shogun](https://www.shogun-toolbox.org/), a machine learning library particularly suitable for large scale kernel methods
 
